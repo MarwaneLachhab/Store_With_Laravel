@@ -24,15 +24,15 @@ This project is a web store built using Laravel framework with separate sections
 
 1. **Clone the repository:**
 
-   git clone https://github.com/MarwaneLachhab/Store_With_Laravel.git
+   `git clone https://github.com/MarwaneLachhab/Store_With_Laravel.git`
 
 2. **Navigate to the project directory:**
 
-   cd laravel-store
+   `cd laravel-store`
 
 3. **Install dependencies:**
 
-   composer install
+   `composer install`
 
 4. **Setup environment variables:**
 
@@ -41,15 +41,15 @@ This project is a web store built using Laravel framework with separate sections
 
 5. **Run migrations and seeders:**
 
-   php artisan migrate --seed
+   `php artisan migrate --seed`
 
 6. **Generate application key:**
 
-   php artisan key:generate
+   `php artisan key:generate`
 
 7. **Start the development server:**
 
-   php artisan serve
+   `php artisan serve`
 
    The application will be available at http://localhost:8000.
    
